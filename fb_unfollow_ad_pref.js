@@ -5,3 +5,6 @@ for(var i = 0; i < button.length; i++){
 }
 
 console.log(button.length-1)
+
+//scroll a page
+window.scrollTo(0,document.body.scrollHeight);
